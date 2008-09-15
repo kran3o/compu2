@@ -1,0 +1,11 @@
+    1  cd C:/users/kran3o/compu2
+    2  git init
+    3  git remote add git@github.com:kran3o/compu2.git
+    4  gitadd.
+    5  git add .
+    6  git commit -m "primer commit"
+    7* 
+    8  git push origin master
+    9  git remote add origin git@github.com:kran3o/compu2.git
+   10  git push origin master
+   11  history>comandos.txt
